@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>中午子Blog</title>
   
-  
+  <subtitle>中午子</subtitle>
   <link href="/zwz.xml" rel="self"/>
   
   <link href="http://zwz.cloud/"/>
